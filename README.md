@@ -8,8 +8,8 @@ You can view the live demo of the digital clock [here](https://digital-clock-ewu
 
 ## Features
 
-- Displays the current time in the format `HH:MM:SS`.
+- Displays the current time in the 12-hour format with `HH:MM:SS AM/PM`.
 - Updates every second to reflect the current time.
-- Uses JavaScript and basic HTML/CSS for the implementation.
+- Uses JavaScript for logic and basic HTML/CSS for styling.
 
 ![Digital Clock Screenshot](https://github.com/arifulnoman/Digital-Clock/blob/main/Screen%20Shots/Capture.JPG)
